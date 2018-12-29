@@ -1,0 +1,28 @@
+{
+	"longitude": 100.106547,
+	"tags": [
+		"id",
+		"aute",
+		"nulla",
+		"aliqua",
+		"enim",
+		"officia",
+		"in"
+	],
+	"friends": [
+		{
+			"id": 0,
+			"name": "Schneider Schroeder"
+		},
+		{
+			"id": 1,
+			"name": "Fitzgerald Preston"
+		},
+		{
+			"id": 2,
+			"name": "Bruce Dorsey"
+		}
+	],
+	"greeting": "Hello, undefined! You have 8 unread messages.",
+	"favoriteFruit": "banana"
+}
