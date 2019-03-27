@@ -2,7 +2,11 @@
 	"name": "json-extended",
 	"displayName": "JSON Extended",
 	"description": "Gives extra information about json",
-	"version": "0.0.2",
+	"version": "0.0.3",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Suraj-Yadav/vscode-json-extended.git"
+	},
 	"engines": {
 		"vscode": "^1.28.0"
 	},
@@ -11,7 +15,8 @@
 	],
 	"publisher": "Suraj-Yadav",
 	"activationEvents": [
-		"onLanguage:json"
+		"onLanguage:json",
+		"onLanguage:http"
 	],
 	"main": "./out/extension",
 	"scripts": {

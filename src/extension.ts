@@ -45,7 +45,7 @@ class JSONExtender {
 
 		let doc = editor.document;
 
-		if (doc.languageId === 'json') {
+		if (doc.languageId === 'json' || doc.languageId === 'http') {
 			let startTimer = performance.now();
 
 			let sizes = this._getSizes(doc);
