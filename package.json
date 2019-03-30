@@ -10,6 +10,7 @@
 	"engines": {
 		"vscode": "^1.28.0"
 	},
+	"license": "GPLv3",
 	"categories": [
 		"Other"
 	],
